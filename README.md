@@ -8,7 +8,7 @@ The dataset for this project includes employee-level data, such as:
 2. Department
 3. Job Role
 4. Age
-5. Attrition
+5. Attrition( Yes/No)
 6. Attrition Rate
 7. Attrition Count
 8. Gender
